@@ -12,7 +12,7 @@ This repository contains the code for the **Sequences, Time Series and Predictio
 
 ## Course Details
 
-- **Course Name**: Time Series Forecasting
+- **Course Name**: Sequences, Time Series and Prediction
 - **Platform**: Coursera
 - **Instructor**: Laurence Moroney
 - **Institution**: deeplearning.AI
